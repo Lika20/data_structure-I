@@ -8,8 +8,13 @@
       "args": [],
       "stopAtEntry": true,
       "externalConsole": false,
+<<<<<<< HEAD
       "cwd": "/Users/lika/Desktop/Data Structure CSCI 211/Week 3/A4",
       "program": "/Users/lika/Desktop/Data Structure CSCI 211/Week 3/A4/build/Debug/outDebug",
+=======
+      "cwd": "/Users/lika/Desktop/Data Structure CSCI 211/Week2/Assignment2",
+      "program": "/Users/lika/Desktop/Data Structure CSCI 211/Week2/Assignment2/build/Debug/outDebug",
+>>>>>>> 6178ace (Assignment2 added)
       "MIMode": "gdb"
     }
   ]

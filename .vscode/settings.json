@@ -27,6 +27,7 @@
     "**/.*/**",
     "**/.vscode",
     "**/.vscode/**"
+<<<<<<< HEAD
   ],
   "C_Cpp.errorSquiggles": "Disabled",
   "files.associations": {
@@ -34,4 +35,7 @@
     "ostream": "cpp",
     "iostream": "cpp"
   }
+=======
+  ]
+>>>>>>> 6178ace (Assignment2 added)
 }
