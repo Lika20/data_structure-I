@@ -1,4 +1,4 @@
-# Assignment 4 DATA Structure I course
+# Assignment 4 
 
 ## Hurricane List Doubly Linked List Implementation
 
