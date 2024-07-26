@@ -1,4 +1,4 @@
-## Assignment 4 DATA Structure I course|Hurricane List Doubly Linked List Implementation
+## Assignment 4 DATA Structure I course| Hurricane List Doubly Linked List Implementation
 
 This repository contains an implementation of a doubly linked list for storing information about hurricanes or tropical storms. The program allows users to create a list of storms, each represented by a Storm object, and provides functionalities to add storms to the list, print storm information from head to tail, and print storm information from tail to head.
 
